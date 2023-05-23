@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@font-face {
+    font-family: 'Irish Clovers';
+    src: url('fonts/Irish Clovers Demo.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Geosans Light';
+    src: url('fonts/GeosansLight.ttf') format('tryetype'), url('fonts/GeosansLight-Oblique.ttf') format('truetype');
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: Pacifico, sans-serif;
+    font-size: 3em;
+} /*FONTE TIRADA DO GOOGLE FONTS*/
+       
+
+h2 {
+    font-family: 'Irish Clovers','Dancing Script', serif;
+    font-size: 2em;
+    font-weight: normal;
+} /*FONTE TIRADA DE FONTE EXTERNA*/
+
+p{
+    font-family: 'Geosans Light', sans-serif;
+    font-size: 1.5em;
+    font-weight: 500;
+    ext-align: justify;
+}
