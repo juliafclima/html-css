@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora irei gerenciar meus projetos!
 
-<a href="juliafclima.github.io/html-css/exercicios/ex001/index.html">Executar o exercício 001</a>
+<a href="juliafclima.github.io/html-css/exercicios/ex002/index.html">Acessar exercício 002</a>
