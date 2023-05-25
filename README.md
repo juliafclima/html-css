@@ -3,8 +3,5 @@
 
  Estou aprendendo a criar sites e agora irei gerenciar meus projetos!
 
-<a href="https://github.com/juliafclima/html-css/tree/main/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a>
-<br>
-<a href="https://github.com/juliafclima/html-css/tree/main/exercicios/ex002/index.html" target="_blank">Acessar exercício 002</a>
-<br>
-<a href="https://github.com/juliafclima/html-css/tree/main/exercicios/ex003/index.html" target="_blank">Acessar exercício 003</a>
+<a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a>
+
