@@ -3,5 +3,7 @@
 
  Estou aprendendo a criar sites e agora irei gerenciar meus projetos!
 
-<a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a>
+ Módulo 1
+ 
+ <a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a>
 
