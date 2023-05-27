@@ -26,7 +26,7 @@
  </ul>
  
  <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex006/html4.html" target="_blank">Acessar exercício 006</a></li>
+ <li><a href="https://juliafclima.github.io/html-css/exercicios/ex006/index.html" target="_blank">Acessar exercício 006</a></li>
  <ul>
  <ul>
  <li><a href="https://juliafclima.github.io/html-css/exercicios/ex006/html5.html" target="_blank">Acessar exercício 006.2</a></li>
