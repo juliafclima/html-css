@@ -4,39 +4,41 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formatação de textos</title>
+    <title>Outras formatações</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
-    <h1>Principais formatações em HTLM5</h1>
+   <h1>Outras formatações em HTML5</h1> 
 
-    <h3>“Semântica é o significado dos vocábulos, por oposição à sua forma.” - Michaelis</h3>
+   <h2>Código-fonte</h2>
+   <p>O comando <code>document.getElementById('teste')</code> é escrito em linguagem JavaScript. A <strong>TAG </strong> mono-espaçada utilizada para fazer isso foi a <strong>CODE</strong>.</p>
+   
+   <h2>Pré-formatado</h2>
+   <code><pre>
+    num = int(input("Digite um número: "))
+    if num % 2 == 0;
+        print(f'O número {num} é PAR')
+    else;
+        print(f'O número {num} é ÍMPAR')
+    print('Fim do programa!')
+    </pre></code>
+    <p>Para insirir um texto da exata forma que se foi escrito, pode-se combinar a <strong>TAG CODE</strong> com a <strong>TAG PRE</strong> (pré formatada).</p>
+       
+   <h2>Citações simples</h2>
+   <p><q>Como diria o pai de um amigo: O computador é um burro muito rápido.</q> Nesse paragrafo usamos a <strong>TAG Q</strong> (Q de quote) para fazer uma citação.</p>
 
-    <h2>Negrito / Destaque</h2>
-    <p>Nesta frase, temos um <b>termo em negrito</b> usando a <strong>TAG B</strong> (não semântica - CSS).</p>
-    <p>Nesta, temos um <strong>termo em destaque</strong> usando a <strong>TAG STRONG</strong> (semântica - HTML).</p>
-    
-    <h2>Itálico / Ênfase</h2>
-    <p>Nesta frase, temos um <i>termo em itálico</i> usando a <strong>TAG I</strong> (não semântica - CSS).</p>
-    <p>Nesta, temos um <em>termo em ênfase</em> usando a <strong>TAG EM</strong> (enphase) - (semântica - HTML).</p>
-    
-    <h2>Texto marcado</h2>
-    <p>Podemos criar também um <mark style="background-color:rgb(154, 205, 233)">texto marcado</mark> usando a <strong>TAG MARK</strong>.</p>
-    
-    <h2>Texto grande / Texto pequeno</h2>
-    <p>Estamos criando um <big>texto grande</big> usando a <strong>TAG BIG</strong> e um <small>texto pequeno</small> usando a <strong>TAG SMALL</strong> nesse parágrafo.</p>
-    
-    <h2>Texto excluido</h2>
-    <p>Podemos marcar um <del>texto como excluido</del> usando a <strong>TAG DEL</strong> para indicar que ele deve ser lido mas não considerado.</p>
-    
-    <h2>Texto sublinhado / inserido</h2>
-    <p>Podemos marcar um <u>texto sublinhado</u> usando a <strong>TAG U</strong> (não semânica - HTML).</p>
-    <p>Existe também, o <ins>texto inserido</ins> usando a <strong>TAG INS</strong> (inserted) para dar uma ênfase e indicar que ele foi adicionado depois (semântica - CSS).</p>
-    
-    <h2>Texto sobrescrito</h2>
-    <p>Para inserir coisas do tipo: X<sup>20</sup> + 3 usamos a <strong>TAG SUP</strong> (superscript).</p>
-    
-    <h2>Texto subscrito</h2>
-    <p>Para inserir coisas do tipo: H<sub>2</sub>0 usamos a <strong>TAG SUB</strong> (subscript).</p>
+   <h2>Citações completas</h2>
+   <p>Segundo maurício Samy Silva, no seu livro Fundmentos de HTML5 e CSS3:</p>
+   <blockquote cite="https://www.google.com.br/books/edition/Fundamentos_de_HTML5_e_CSS3/2iPYCQAAQBAJ?hl=pt-BR&gbpv=1&dq=html&printsec=frontcover">
+    "Quando a HTML foi inventada, os conteúdos eram essencialmente hipertextos."
+    </blockquote>
+    <p>Se cria uma citação composta utilizando a <strong>TAG BLOCKQUOTE</strong></p>
+
+   <h2>Abreviações</h2>
+   <p>Estou estudando <abbr title="Linguagem de Marcação de HiperTexto/Hyper Text Markup Language">HTML</abbr> e <abbr title="Folha de Estilo em Cascata/Cascading Style Sheet">CSS</abbr>. Estou adorando! <br> Para deixar claro sobre o que você está falando, use a <strong>TAG ABBR</strong> (abbr de abbreviation).</p>
+
+   <h2>Texto invertido &#x1F92A</h2>
+   <bdo dir="rtl">Estou aprendendo a criar coisas em HTML5</bdo>
+   <p><strong>TAG BDO</strong> (bi-directional override) para deixar seu texto invertido <br> rtl = da direita para a esquerda (right-to-left) <br> ltr = da esquerda para a direita (left-to-right)</p>
 </body>
 </html>
