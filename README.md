@@ -34,23 +34,23 @@
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex008/index.html">Acessar exercício 008</a> - Listas ordenadas, não ordenadas e de definição</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex008/index.html">Acessar exercício 008</a> - TAGS do HTML5</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex009/index.html">Acessar exercício 009</a> - Trabalhando com links</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex009/index.html">Acessar exercício 009</a> - Listas ordenadas, não ordenadas e de definição</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex010/index.html" target="_blank">Acessar exercício 010</a>Imagens dinâmicas e áudios</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex010/index.html" target="_blank">Acessar exercício 010</a> - Trabalhando com links</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex011/index.html">Acessar exercício 011</a>Vídeos</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex011/index.html">Acessar exercício 011</a> - Imagens dinâmicas e áudios</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex012/index.html" target="_blank">Acessar exercício 012</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex012/index.html" target="_blank">Acessar exercício 012</a> - Vídeos</li>
  </ul>
 
 Módulo 2
