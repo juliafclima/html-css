@@ -6,47 +6,47 @@
  Módulo 1
  
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a> - Olá,  Mundo!</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html">Acessar exercício 001</a> - Olá,  Mundo!</li>
  </ul>
 
 <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex002/index.html" target="_blank">Acessar exercício 002</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex002/index.html">Acessar exercício 002</a> - Parágrafos e quebras de linha</li>
  </ul>
  
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex003/index.html" target="_blank">Acessar exercício 003</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex003/index.html">Acessar exercício 003</a> - Testando cargas e imagens</li>
  </ul>
  
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex004/index.html" target="_blank">Acessar exercício 004</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex004/index.html">Acessar exercício 004</a> - Favicon</li>
  </ul>
  
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex005/index.html" target="_blank">Acessar exercício 005</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex005/index.html">Acessar exercício 005</a> - Hierarquia de títulos</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex006/index.html" target="_blank">Acessar exercício 006</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex006/index.html">Acessar exercício 006</a> - TAGS do HTML5</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex007/index.html" target="_blank">Acessar exercício 007</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex007/index.html">Acessar exercício 007</a> - TAGS do HTML5</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex008/index.html" target="_blank">Acessar exercício 008</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex008/index.html">Acessar exercício 008</a> - Listas ordenadas, não ordenadas e de definição</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex009/index.html" target="_blank">Acessar exercício 009</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex009/index.html">Acessar exercício 009</a> - Trabalhando com links</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex010/index.html" target="_blank">Acessar exercício 010</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex010/index.html" target="_blank">Acessar exercício 010</a>Imagens dinâmicas e áudios</li>
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex011/index.html" target="_blank">Acessar exercício 011</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex011/index.html">Acessar exercício 011</a>Vídeos</li>
  </ul>
 
  <ul>
