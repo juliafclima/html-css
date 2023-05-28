@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Posição do fundo</title>
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <style>
+        body {
+            background-color: rgba(119, 136, 153, 0.527);
+        }
+
+        header h1 p {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        main {
+            border: 3px dashed black;
+        }
+
+        div.quadrado {
+            width: 213px;
+            height: 142px;
+            border: 1px solid black;
+            margin: 5px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+
+        div:hover {
+            background-image: url(imagens/teste.jpg);
+        }
+
+        div#q1 {
+            background-position: left top;
+        }
+
+        div#q2 {
+            background-position: center top;
+        }
+
+        div#q3 {
+            background-position: right top;
+        }
+
+        div#q4 {
+            background-position: left center;
+        }
+
+        div#q5 {
+            background-position: center center;
+        }
+
+        div#q6 {
+            background-position: right center;
+        }
+
+        div#q7 {
+            background-position: left bottom;
+        }
+
+        div#q8 {
+            background-position: center bottom;
+        }
+
+        div#q9 {
+            background-position: right bottom;
+        }
+
+        footer {
+            padding-top: 20px;
+        }
+
+        footer p {
+            text-align: right;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+            background-color: green;
+            padding: 10px;
+            border-radius: 10px;
+            margin: 3px
+        }
+
+        footer a:hover {
+            color: black;
+            text-decoration: underline;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <head>
+        <h1>Personalização de Background</h1>
+        <p>Passe o mouse em cima:</p>
+    </head>
+    <main>
+        <div id="completo">
+        </div>
+        <div class="quadrado" id="q1">
+        </div>
+        <div class="quadrado" id="q2">
+        </div>
+        <div class="quadrado" id="q3">
+        </div>
+
+            <br>
+        
+        <div class="quadrado" id="q4">
+        </div>
+        <div class="quadrado" id="q5">
+        </div>
+        <div class="quadrado" id="q6">
+        </div>
+
+            <br>
+        
+        <div class="quadrado" id="q7">
+        </div>
+        <div class="quadrado" id="q8">
+        </div>
+        <div class="quadrado" id="q9">
+        </div>
+
+    </main>
+    <footer>
+        <p><a href="fundo002.html">Voltar</a><a href="fundo004.html">Avançar</a></p>
+    </footer>
+</body>
+</html>

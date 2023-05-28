@@ -1,0 +1,85 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(imagens/wallpaper001.jpg);
+}
+
+header > h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+    background-color: white;
+    width: 450px;
+    border-radius: 10px;
+}
+
+main p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2em;
+    text-align: center;
+    color: black;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 10px;
+    width: 150px;
+    margin: auto;
+    margin-top: 10px;
+    
+}
+
+div.quadrado {
+    border: 2px solid black;
+    display: inline-block;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+    background-color: lightgrey;
+    margin-left: 15px;
+}
+
+div#q1 {
+    background-color: aquamarine;
+}
+
+div#q1:hover {
+    background-color: blueviolet;
+}
+
+div#q2 {
+    background-image: linear-gradient(to bottom,yellow, red)
+}
+
+div#q2:hover {
+    background-image: linear-gradient(to right,green, blue)
+}
+
+div#q3 {
+   background-image: url('imagens/pattern003.png');     
+}
+
+div#q3:hover {
+   background-image: url('imagens/pattern002.png');     
+}
+
+footer {
+    padding-top: 20px;
+}
+
+footer p {
+    text-align: right;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    background-color: green;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+footer a:hover {
+    color: black;
+    text-decoration: underline;
+    background-color: yellow;
+}
