@@ -6,21 +6,21 @@
  Módulo 1
  
  <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a></li>
  </ul>
 
 <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex002/index.html" target="_blank">Acessar exercício 002</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex002/index.html" target="_blank">Acessar exercício 002</a></li>
  </ul>
  
  <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex003/index.html" target="_blank">Acessar exercício 003</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex003/index.html" target="_blank">Acessar exercício 003</a></li>
  </ul>
  
  <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex004/index.html" target="_blank">Acessar exercício 004</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex004/index.html" target="_blank">Acessar exercício 004</a></li>
  </ul>
  
  <ul>
- <li><a href="https://juliafclima.github.io/html-css/exercicios/ex005/index.html" target="_blank">Acessar exercício 005</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex005/index.html" target="_blank">Acessar exercício 005</a></li>
  </ul>
