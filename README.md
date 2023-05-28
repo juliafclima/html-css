@@ -6,7 +6,7 @@
  Módulo 1
  
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html" target="_blank">Acessar exercício 001</a> - Olá,  Mundo!</li>
  </ul>
 
 <ul>
