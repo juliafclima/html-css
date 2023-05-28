@@ -53,6 +53,8 @@
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex012/index.html" target="_blank">Acessar exercício 012</a></li>
  </ul>
 
+Módulo 2
+
  <ul>
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex013/index.html" target="_blank">Acessar exercício 013</a></li>
  </ul>
@@ -89,6 +91,26 @@
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex021/index.html" target="_blank">Acessar exercício 021</a></li>
  </ul>
 
+Módulo 3
+
  <ul>
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html" target="_blank">Acessar exercício 022</a></li>
+ </ul>
+
+ <ul>
+    <li><a href="#" target="_blank">Acessar exercício 023</a></li>
+ </ul>
+
+ Módulo 4
+
+  <ul>
+    <li><a href="#" target="_blank">Acessar exercício 024</a></li>
+ </ul>
+
+  <ul>
+    <li><a href="#" target="_blank">Acessar exercício 025</a></li>
+ </ul>
+
+  <ul>
+    <li><a href="#" target="_blank">Acessar exercício 026</a></li>
  </ul>
