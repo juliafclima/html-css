@@ -98,19 +98,19 @@ Módulo 3
  </ul>
 
  <ul>
-    <li><a href="#" target="_blank">Acessar exercício 023</a></li>
+    <li><a href="#" target="_blank">Acessar exercício 023</a> - Em construção...</li>
  </ul>
 
  Módulo 4
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 024</a></li>
+    <li><a href="#" target="_blank">Acessar exercício 024</a> - Em construção...</li>
  </ul>
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 025</a></li>
+    <li><a href="#" target="_blank">Acessar exercício 025</a> - Em construção...</li>
  </ul>
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 026</a></li>
+    <li><a href="#" target="_blank">Acessar exercício 026</a> - Em construção...</li>
  </ul>
