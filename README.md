@@ -94,7 +94,7 @@ Módulo 2
 Módulo 3
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html" target="_blank">Acessar exercício 022</a></li>
+    <li><a href=" https://juliafclima.github.io/html-css/exercicios/ex022/index.html" target="_blank">Acessar exercício 022</a></li>
  </ul>
 
  <ul>
