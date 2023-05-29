@@ -64,7 +64,7 @@ Módulo 2
  </ul>
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex015/index.html">Exercício 015</a>CSS externo</li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex015/index.html">Exercício 015</a> - CSS externo</li>
  </ul>
 
  <ul>
