@@ -120,45 +120,45 @@ Módulo 3 - Colocando o protótipo no ar
  Módulo 1 
  
  <ul>
- <li><a href="#"> Desafio 001</a> - ⏳⌛️ Em construção...
+ <li><a href="https://juliafclima.github.io/html-css/desafios/d01/index.html">Desafio 001</a> - Desafios das mensagens</li>
  </ul>
  
  <ul>
-  <li><a href="#"> Desafio 002</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d02/index.html">Desafio 002</a> - Desafios das imagens</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 003</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d03/index.html">Desafio 003</a> - Desafio do mapa</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 004</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d04/index.html">Desafio 004</a> - Desafio do Emojis</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 005</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d04/index.html">Desafio 005</a> - Desafio social</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 006</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d06/index.html">Desafio 006</a> - Desafio das Tags em HTML5</li>
  </ul>
  
  <ul>
-  <li><a href="#"> Desafio 007</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d07/index.html"> Desafio 007</a> - Desafio de imagens flexíveis</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 008</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d08/index.html"> Desafio 008</a> - Desafio de navegação</li>
  </ul>
  
 <ul>
-  <li><a href="#"> Desafio 009</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d09/index.html"> Desafio 009</a> - Desafio dos meus vídeos</li>
  </ul>
  
  Módulo 2 
    
  <ul>
-  <li><a href="#"> Desafio 010</a> - ⏳⌛️ Em construção...
+ <li><a href="https://juliafclima.github.io/html-css/desafios/d10/index.html"> Desafio 010</a> - Desafio Android</li>
  </ul>
    
  <ul>
