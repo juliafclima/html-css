@@ -3,6 +3,7 @@
 
  Estou aprendendo a criar sites e agora irei gerenciar meus projetos!
 
+ <h1>Exercícios</h1>
  Módulo 1 - HTML5 e CSS3
  
  <ul>
@@ -113,4 +114,69 @@ Módulo 3 - Colocando o protótipo no ar
 
   <ul>
     <li><a href="#">Exercício 026</a> - ⏳⌛️ Em construção...</li>
+ </ul>
+ 
+ <h1>Desafios</h1>
+ Módulo 1 
+ 
+ <ul>
+ <li><a href="#"> Desafio 001</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+ <ul>
+  <li><a href="#"> Desafio 002</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 003</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 004</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 005</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 006</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+ <ul>
+  <li><a href="#"> Desafio 007</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 008</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+<ul>
+  <li><a href="#"> Desafio 009</a> - ⏳⌛️ Em construção...
+ </ul>
+ 
+ Módulo 2 
+   
+ <ul>
+  <li><a href="#"> Desafio 010</a> - ⏳⌛️ Em construção...
+ </ul>
+   
+ <ul>
+  <li><a href="#"> Desafio 011</a> - ⏳⌛️ Em construção...
+ </ul>
+   
+   <ul>
+  <li><a href="#"> Desafio 012</a> - ⏳⌛️ Em construção...
+ </ul>
+  
+ Módulo 3
+   
+   <ul>
+    <li><p>Não tem desafio</p>
+ </ul>
+   
+ Módulo 4
+   
+   <ul>
+  <li><a href="#"> Desafio 013</a> - ⏳⌛️ Em construção...
  </ul>
