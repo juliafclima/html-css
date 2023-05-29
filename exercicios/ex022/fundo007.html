@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centralização em containers verticais</title>
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <style>
+        section p {
+            color: white;
+            background-color: black;
+            width: 60px;
+            border-radius: 5px;
+            padding: 3px;
+        }
+
+        section {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            background-color: purple;
+            height: 86vh;
+            padding: 10px;
+
+            position: relative;
+
+        }
+
+        article {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            background-color: yellow;
+            height: 200px;
+            width: 400px;
+            padding: 10px;
+
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        aside {
+            background-image: url(imagens/target001.png);
+            background-size: 100% 100%;
+            background-color: red;
+            height: 100px;
+            width: 200px;
+            padding: 10px;
+
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        footer p {
+            text-align: right;
+        }
+
+        footer a {
+            color: white;
+            text-decoration: none;
+            background-color: green;
+            padding: 10px;
+            border-radius: 10px;
+            margin: 3px;
+        }
+
+        footer a:hover {
+            color: black;
+            text-decoration: underline;
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Centralização de blocos verticais</h1>
+    </header>
+    <section>
+        <p>1 CAIXA</p>
+        <article>
+            <p>2 CAIXA</p>
+            <aside>
+                <p>3 CAIXA</p>
+            </aside>
+        </article>
+    </section>
+    <footer>
+        <p><a href="fundo006.html">Voltar</a><a href="index.html">Inicio</a></p>
+    </footer>
+</body>
+</html>
