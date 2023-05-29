@@ -94,7 +94,7 @@ Módulo 2 - Deixando as coisas mais bonitas
 Módulo 3 - Colocando o protótipo no ar
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html">Exercício 022</a> - Imagens de fundobh </li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html">Exercício 022</a> - Imagens de fundo</li>
  </ul>
 
  <ul>
