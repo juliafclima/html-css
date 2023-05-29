@@ -3,7 +3,7 @@
 
  Estou aprendendo a criar sites e agora irei gerenciar meus projetos!
 
- Módulo 1
+ Módulo 1 - HTML5 e CSS3
  
  <ul>
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex001/index.html">Exercício 001</a> - Olá,  Mundo!</li>
@@ -53,7 +53,7 @@
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex012/index.html">Exercício 012</a> - Vídeos</li>
  </ul>
 
-Módulo 2
+Módulo 2 - Deixando as coisas mais bonitas
 
  <ul>
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex013/index.html">Exercício 013</a> - CSS inline</li>
@@ -91,26 +91,26 @@ Módulo 2
     <li><a href="https://juliafclima.github.io/html-css/exercicios/ex021/index.html">Exercício 021</a> - Box-level</li>
  </ul>
 
-Módulo 3
+Módulo 3 - Colocando o protótipo no ar
 
  <ul>
-    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html" target="_blank">Acessar exercício 022</a></li>
+    <li><a href="https://juliafclima.github.io/html-css/exercicios/ex022/index.html">Exercício 022</a> - Imagens de fundobh </li>
  </ul>
 
  <ul>
-    <li><a href="#" target="_blank">Acessar exercício 023</a> - Em construção...</li>
+    <li><a href="#">Exercício 023</a> - ⏳⌛️ Em construção...</li>
  </ul>
 
  Módulo 4
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 024</a> - Em construção...</li>
+    <li><a href="#">Exercício 024</a> - ⏳⌛️ Em construção...</li>
  </ul>
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 025</a> - Em construção...</li>
+    <li><a href="#">Exercício 025</a> - ⏳⌛️ Em construção...</li>
  </ul>
 
   <ul>
-    <li><a href="#" target="_blank">Acessar exercício 026</a> - Em construção...</li>
+    <li><a href="#">Exercício 026</a> - ⏳⌛️ Em construção...</li>
  </ul>
