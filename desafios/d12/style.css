@@ -4,14 +4,20 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
+:root {
+    ---fonte01: Verdana, Geneva, Tahoma, sans-serif;
+    --fonte02: 'Passion One', cursive; /* título */
+    --fonte03: 'Sriracha', cursive; /* conteúdo */
+}
+
 * {
     margin: 0px;
     padding: 0px;
 }
 
 html, body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     min-height: 100vh;
+    font-family: var(---fonte01);
 }
 
 header {
@@ -23,10 +29,10 @@ header {
 }
 
 header h1 {
-    font-family: "Passion One", sans-serif;
+    font-family: var(--fonte02);
     font-weight: bold;
-    font-size: 51px;
-    font-variant: small-caps;
+    font-variant: small-caps; /* DEIXA TODAS AS LETRAS MAIUSCULAS */
+    font-size: 10vw; /* largura da viewport */
 }
 
 a {
@@ -39,16 +45,13 @@ a:hover {
     text-decoration: underline;
 }
 
-main {
-    font-family: "Sriracha", sans-serif;
-    font-weight: regular;
-}
-
 section {
+    font-family: var(--fonte03);
     padding-top: 10vh;
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
+    font-size: 3.5vw;
 }
 
 #girassol {
@@ -61,16 +64,16 @@ section {
 
 .letra-branca {
     color: white;
-    background-color: rgba(0, 0, 0, 0.253);
-    width: 400px;
-    padding: 5px;
-    line-height: 35.8px;
-    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.299);
+    padding: 10px;
+    line-height: 2em;
+    border-radius: 2px;
+    display: inline-block;
 }
 
 footer {
     background-color: black;
     color: white;
-    padding: 10px;
+    padding: 15px;
     text-align: center;
 }
