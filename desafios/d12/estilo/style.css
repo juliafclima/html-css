@@ -59,20 +59,29 @@ section p {
 }
 
 #img01 {
-    background: darkgreen url(imagens/background001.jpg) right center / cover no-repeat fixed;
+    background-color: darkgreen;
+    background-image: url(../imagens/background001.jpg);
+    
 }
 
 #img02 {
-    background: darkkhaki url(imagens/background002.jpg) center center / cover no-repeat fixed;
+    background-color: darkkhaki;
+    background-image: url(../imagens/background002.jpg);
 }
 
 .imagem {
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.345);
+    background: darkkhaki right center / cover no-repeat fixed;
+}
+
+.texto-branco {
     color: white;
-    background-color: rgba(0, 0, 0, 0.299);
+    background-color: rgba(0, 0, 0, 0.331);
     padding: 10px;
     line-height: 2em;
     border-radius: 2px;
     display: inline-block;
+    text-shadow: 3px 1px 2px black;
 }
 
 footer {
