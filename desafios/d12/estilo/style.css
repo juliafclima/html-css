@@ -51,7 +51,7 @@ section {
     padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
-    font-size: 4vw;
+    font-size: 3.5vw;
 }
 
 section p {
@@ -59,12 +59,11 @@ section p {
 }
 
 #img01 {
-    /* background: darkgreen right center / cover no-repeat fixed; */
-    background-image: url(../imagens/background001.jpg);
+    background: darkgreen url(imagens/background001.jpg) right center / cover no-repeat fixed;
 }
 
 #img02 {
-    background: darkkhaki url('../imagens/background002.jpg') center center / cover no-repeat fixed;
+    background: darkkhaki url(imagens/background002.jpg) center center / cover no-repeat fixed;
 }
 
 .imagem {
