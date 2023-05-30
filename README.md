@@ -162,7 +162,7 @@ Módulo 3 - Colocando o protótipo no ar
  </ul>
    
  <ul>
-  <li><a href="#"> Desafio 011</a> - ⏳⌛️ Em construção...
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d11/index.html"> Desafio 011</a> - Desafio Cordel Moderno
  </ul>
    
    <ul>
