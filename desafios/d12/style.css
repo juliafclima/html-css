@@ -9,39 +9,30 @@
     padding: 0px;
 }
 
-body {
+html, body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.letra-branca {
-    color: white;
-    background-color: rgba(0, 0, 0, 0.466);
-    width: 200px;
-    padding: 5px;
+    min-height: 100vh;
 }
 
 header {
     background-color: black;
     color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 header h1 {
     font-family: "Passion One", sans-serif;
     font-weight: bold;
     font-size: 51px;
-    text-align: center;
-    padding-top: 50px;
-}
-
-header p {
-    text-align: center;
-    padding-bottom: 50px;
+    font-variant: small-caps;
 }
 
 a {
     text-decoration: none;
     color: white;
-    font-weight: bold;
+    font-weight: bolder;
 }
 
 a:hover {
@@ -54,7 +45,10 @@ main {
 }
 
 section {
-    padding: 45.440px 0px 45.440px 30px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    padding-left: 30px;
+    line-height: 2em;
 }
 
 #girassol {
@@ -65,17 +59,18 @@ section {
     background: darkkhaki url(imagens/background002.jpg) center center / cover no-repeat fixed;
 }
 
-section p {
+.letra-branca {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.253);
+    width: 400px;
+    padding: 5px;
     line-height: 35.8px;
+    border-radius: 3px;
 }
 
 footer {
     background-color: black;
     color: white;
     padding: 10px;
-}
-
-footer p {
     text-align: center;
-    line-height: 13.3px;
 }
