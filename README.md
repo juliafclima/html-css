@@ -166,7 +166,7 @@ Módulo 3 - Colocando o protótipo no ar
  </ul>
    
    <ul>
-  <li><a href="https://juliafclima.github.io/html-css/desafios/d11/index.html"> Desafio 012</a> - Desafio Cordel Moderno
+  <li><a href="https://juliafclima.github.io/html-css/desafios/d12/index.html"> Desafio 012</a> - Desafio Cordel Moderno
  </ul>
   
  Módulo 3
