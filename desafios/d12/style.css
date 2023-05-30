@@ -65,7 +65,7 @@ section p {
 
 #img02 {
     /* background: darkkhaki url('../imagens/background002.jpg') center center / cover no-repeat fixed; */
-    
+    background-image: url(../imagens/background002.jpg);
 }
 
 .imagem {
